@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aartihanda" alt="aartihanda" /></a> </p>
 
-- 🔭 I’m currently working on  as a Senior Software Engineer.**
+- 🔭 I’m currently looking for an opportunity in Data Analyst.**
 
-- 🌱 I’m currently learning *Django, Flask, Machine Learning , Deep learning*
+- 🌱 I’m currently learning *SQL, Tableau, Python, Machine Learning*
 
 - 👯 I am currently doing my MS in Data Science *from Liver Pool John Moore University*
 
-- 🤝 I’m looking to work as freelancer for any *Data Science Project*
+- 🤝 I’m looking to work as freelancer for any *Data Science and Data Analyst Project*
 
 - 👨‍💻 All of my projects are available at [https://github.com/aartihanda](https://github.com/aartihanda)
 
-- 💬 Ask me about *React, Vue,Python, Data Science* Data Analyst, Python , Tableau.
+- 💬 Ask me about *Python, Data Science* Data Analyst, Python , Tableau.
 
 - 📫 How to reach me *aartihanda96@gmail.com*
 
@@ -23,8 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/aartihanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/aartihanda/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aartihanda" height="30" width="40" /></a>
-<a href="https://instagram.com/yaatri_aartiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/aartihanda/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaatri_aartiy" height="30" width="40" /></a>
+<a href="https://instagram.com/yaatri_aartiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/yaatri_aartiy/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaatri_aartiy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
